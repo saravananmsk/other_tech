@@ -1,0 +1,3 @@
+sudo apt install gcc
+gcc -o HelloWorld HelloWorld.c
+./HelloWorld

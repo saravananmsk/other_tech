@@ -1,0 +1,3 @@
+sudo apt install g++
+g++ -o hello hello.cc
+./hello
